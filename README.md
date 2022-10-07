@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/cgonzalezm1234/cgonzalezm1234/blob/main/resources/img/waving.gif">, I'm Camilo</h1>
-<h4 align="center">Software Engineer and UX/UI Designer oriented to innovation with 10 years of experience. See my <a href="https://www.linkedin.com/in/camilo-gonzalez-munoz/?locale=en_US" target="_blank">resume</a> for more</h4>
+<h4 align="center">Software Engineer and UX/UI Designer oriented to innovation with 10 years of experience. See my <a href="https://www.linkedin.com/in/camilo-gonzalez-munoz/?locale=en_US" target="_blank">LinkedIn</a> for more</h4>
 </div>
 
 <div align="center">
