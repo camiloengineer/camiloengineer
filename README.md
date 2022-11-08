@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.linkedin.com/company/saci-falabella/mycompany/" target="blank">Falabella</a> as a Full Stack Software Engineer and <a href="https://apps.apple.com/us/app/greenstand-treetracker/id1554174094" target="blank">Greenstand</a> as a iOS Developer volunteering.
 
-- 💬 Ask me about **React and Swift**
+- 💬 Ask me about **Javascript and Swift**
 
 - 🤝 I’m available for remote work.
 
