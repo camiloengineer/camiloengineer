@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif">, I’m Camilo</h1>
-<h4 align="center">Software Engineer oriented to innovation with more than a decade of experience. See my <a href="https://www.linkedin.com/in/camiloengineer" target="_blank">LinkedIn</a> for more</h4>
+<h1 align="center">Hello <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif">, I am Camilo</h1>
+<h4 align="center">I am a Software Engineer with more than a decade of experience. I can say with certainty that it is important to be up to date with the most innovative technologies, however a good design will make a difference. I can lead enterprise-level software projects from a concept, adapting it to the needs of the users together with the company's objectives. See my <a href="https://www.linkedin.com/in/camiloengineer" target="_blank">LinkedIn</a> for more</h4>
 </div>
 
 <div align="center">
