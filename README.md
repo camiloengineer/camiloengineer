@@ -18,5 +18,6 @@
 - 📫 How to reach me **camilo@camiloengineer.com**
 
 -----
-© 2023 Camilo Engineer. All rights reserved.
-https://github.com/camiloengineer
+<p> © 2023 Camilo Engineer. All rights reserved.</p>
+<p>URL: [https://github.com/camiloengineer](https://www.camiloengineer.com/)</p>
+<p>Email: camilo@camiloengineer.com</p>
