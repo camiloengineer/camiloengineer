@@ -19,5 +19,4 @@
 
 -----
 <p> © 2023 Camilo Engineer. All rights reserved.</p>
-<p>URL: https://www.camiloengineer.com</p>
-<p>Email: camilo@camiloengineer.com</p>
+<p>https://www.camiloengineer.com</p>
