@@ -18,4 +18,5 @@
 - 📫 How to reach me **camilo@camiloengineer.com**
 
 -----
-Credits: [Camilo González](https://github.com/camiloengineer)
+© 2023 Camilo Engineer. All rights reserved.
+https://github.com/camiloengineer
