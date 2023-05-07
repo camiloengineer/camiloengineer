@@ -16,7 +16,7 @@
 - UI/UX Design
 - iOS App Development
 
-- 📫 How to reach me **camilo@camiloengineer.com**
+📫 How to reach me **camilo@camiloengineer.com**
 
 -----
 <p> © 2023 Camilo Engineer. All rights reserved.</p>
