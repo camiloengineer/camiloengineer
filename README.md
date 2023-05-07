@@ -9,14 +9,12 @@
        alt="snake" />
 </div>
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/saci-falabella/mycompany/" target="blank">Falabella</a> as a Full Stack Software Engineer and <a href="https://apps.apple.com/us/app/greenstand-treetracker/id1554174094" target="blank">Greenstand</a> as a iOS Developer volunteering.
+ <h2 align="center">Here's how I can help you:</h2>
 
-- Here's how I can help you:
-
-- 🤝 Front-end Engineering, Front-end Team Leadership, and Front-end Architecture
-- 🤝 Full-Stack Development
-- 🤝 UI/UX Design
-- 🤝 iOS App Development
+- Front-end Engineering, Front-end Team Leadership, and Front-end Architecture
+- Full-Stack Development
+- UI/UX Design
+- iOS App Development
 
 - 📫 How to reach me **camilo@camiloengineer.com**
 
