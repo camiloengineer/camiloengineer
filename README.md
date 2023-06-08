@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif">, I'm Camilo!</h1>
-  <h2 align="center">Full-Stack Developer expert in Front-End</h2>
-<p align="left">As a Full Stack Engineer with a strong focus on front-end development, I apply my skills in software engineering and design to create complex systems with a user-centered aesthetic. In addition to being a skilled engineer, I'm also an experienced and dedicated designer committed to creating intuitive and engaging user experiences. Recently, I've been expanding my skills to include native iOS app development, with a focus on creating fast, efficient, and optimized apps that look great on iOS devices.</p>
+<h1 align="center">¡Hola <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif">, soy Camilo!</h1>
+  <h2 align="center">Desarrollador Full-Stack con énfasis en Front-End</h2>
+<p align="left">Como ingeniero de Full Stack con un fuerte enfoque en el desarrollo de front-end, aplico mis habilidades en ingeniería de software y diseño para crear sistemas complejos con una estética centrada en el usuario. Además de ser un ingeniero hábil, también soy un diseñador experimentado y dedicado comprometido con la creación de experiencias de usuario intuitivas y atractivas. Recientemente, he estado ampliando mis habilidades para incluir el desarrollo de aplicaciones nativas para iOS, con un enfoque en la creación de aplicaciones rápidas, eficientes y optimizadas que se vean geniales en dispositivos iOS.</p>
 </div>
 
 <div align="center">
@@ -9,15 +9,15 @@
        alt="snake" />
 </div>
 
- <h2 align="center">Here's how I can help you:</h2>
+<h2 align="center">Aquí está cómo puedo ayudarte:</h2>
 
-- Front-end Engineering, Front-end Team Leadership, and Front-end Architecture
-- Full-Stack Development
-- UI/UX Design
-- iOS App Development
+- Ingeniería de Front-End, Liderazgo de Equipo de Front-End y Arquitectura de Front-End
+- Desarrollo Full-Stack
+- Diseño de UI/UX
+- Desarrollo de aplicaciones iOS
 
 -----
-<p>📫 How to reach me: camilo@camiloengineer.com<p>
+<p>📫 Cómo contactarme: camilo@camiloengineer.com<p>
 <p>https://www.camiloengineer.com</p>
 <br/>
-<p>© 2023 Camilo Engineer. All rights reserved.</p>
+<p>© 2023 Camilo Engineer. Todos los derechos reservados.</p>
