@@ -14,7 +14,7 @@ _Nodejs, C#, Go y Java._
 
 ## Mobile
 
-_SwiftUI, UIKit, Dart y Ionic._
+_SwiftUI, UIKit, Flutter y Ionic._
 
 ## Cloud Computing
 
