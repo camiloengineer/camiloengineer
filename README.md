@@ -2,7 +2,7 @@
 
 _¡Hey coders! Full Stack Engineer con más de una década de experiencia experiencia._
 
-_En este repositorio descubrirás proyectos_
+_En este repositorio descubrirás los proyectos que más me apasionan_
 
 ## Frontend
 
