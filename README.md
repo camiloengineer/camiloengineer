@@ -10,7 +10,7 @@ _React, Angular, Vue, Svelte, Lit y Stencil._
 
 ## Backend 
 
-_Nodejs, C#, Go y Java._
+_Nodejs, .NET, Go y Java._
 
 ## Mobile
 
