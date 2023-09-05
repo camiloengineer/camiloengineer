@@ -10,7 +10,7 @@ _Principalmente desarrollo en React, Angular, Vue y Lit._
 
 ## Backend 
 
-_Me gusta trabajar Nestjs, .NET con C#._
+_Me gusta Nestjs, .NET con C#, Go y Java._
 
 ## Mobile
 
