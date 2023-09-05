@@ -10,7 +10,7 @@ _React, Angular, Vue y Lit._
 
 ## Backend 
 
-_Nodejs, .NET con C#, Go y Java._
+_Nodejs, C#, Go y Java._
 
 ## Mobile
 
