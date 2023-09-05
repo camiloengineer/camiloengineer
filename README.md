@@ -6,7 +6,7 @@ _En este repositorio descubrirás proyectos_
 
 ## Frontend
 
-_React, Angular, Vue y Lit._
+_React, Angular, Vue, Svelte, Lit y Stencil._
 
 ## Backend 
 
