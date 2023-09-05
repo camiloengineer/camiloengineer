@@ -1,8 +1,8 @@
 # ¡Hola! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif"> soy Camilo!
 
-¡Hey coders! Soy Camilo, un Ingeniero de Software con más de una década de experiencia. Me especializo en el desarrollo de Front-End y tengo habilidades en liderazgo de equipos e implementación de arquitecturas escalables. Mi enfoque se centra en el diseño UX/UI, combinando habilidades técnicas con pasión por la usabilidad y la estética.
+¡Hey coders! Soy Camilo, un Software Engineer de una década de experiencia. Me especializo en el desarrollo de Front-End.
 
-En este repositorio, descubrirás proyectos que reflejan mi entusiasmo por la innovación y desarrollo en JavaScript, Swift, C#, y Dart. Encontrarás desde desarrollos web y móviles con enfoque en UX/UI, hasta proyectos backend. Cada uno de estos trabajos es un parte de mi aprendizaje constante. ¡Espero que los disfrutes!
+En este repositorio, descubrirás proyectos que reflejan mi entusiasmo por la innovación y desarrollo en JavaScript, Go, Java, C#, Swift y Dart. Encontrarás desde desarrollos web Full Stack Web y Mobile. Cada uno de estos trabajos es un parte de mi aprendizaje constante. ¡Espero que los disfrutes!
 
 No dudes en contactarme si tienes alguna pregunta.
 
