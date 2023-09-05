@@ -1,16 +1,33 @@
-# ¡Hola! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif"> soy Camilo!
+# ¡Hola! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif"> ¡Soy Camilo!
 
-¡Hey coders! Soy Camilo, un Software Engineer de una década de experiencia. Me especializo en el desarrollo de Front-End.
+_¡Hey coders! Full Stack Engineer con más de una década de experiencia experiencia._
 
-En este repositorio, descubrirás proyectos que reflejan mi entusiasmo por la innovación y desarrollo en JavaScript, Go, Java, C#, Swift y Dart. Encontrarás desde desarrollos web Full Stack Web y Mobile. Cada uno de estos trabajos es un parte de mi aprendizaje constante. ¡Espero que los disfrutes!
+_En este repositorio descubrirás proyectos_
 
-No dudes en contactarme si tienes alguna pregunta.
+##Frontend
 
-📫 Puedes comunicarte conmigo a través de camilo@camiloengineer.com.
+_Principalmente desarrollo en React, Angular, Vue y Lit._
 
-Visita mi sitio web para obtener más información y ver ejemplos de mi trabajo: [https://www.camiloengineer.com](https://www.camiloengineer.com)
+##Backend 
 
-© 2023 Camilo Engineer. Todos los derechos reservados.
+_Me gusta trabajar Nestjs, .NET con C#._
 
+##Mobile
+
+_SwiftUI, UIKit, Dart y Ionic._
+
+##Cloud
+
+_Amazon Webservices, Google Cloud Platform y Azure_
+
+_No dudes en contactarme si tienes alguna pregunta._
+
+##Contacto
+
+_📫 Puedes comunicarte conmigo a través de camilo@camiloengineer.com._
+
+_Visita mi sitio web para obtener ejemplos de mi trabajo: [https://www.camiloengineer.com](https://www.camiloengineer.com)_
+
+~© 2023 Camilo Engineer.~
 
 <img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />
