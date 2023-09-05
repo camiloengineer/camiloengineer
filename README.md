@@ -6,11 +6,11 @@ _En este repositorio descubrirás proyectos_
 
 ## Frontend
 
-_Principalmente desarrollo en React, Angular, Vue y Lit._
+_React, Angular, Vue y Lit._
 
 ## Backend 
 
-_Me gusta Nestjs, .NET con C#, Go y Java._
+_Nodejs, .NET con C#, Go y Java._
 
 ## Mobile
 
