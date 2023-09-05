@@ -29,4 +29,4 @@ _Visita mi web para ver Proyectos Profesionales y de Innovación: [https://www.c
 
 _<sub>© 2023 Camilo Engineer.<sub>_
 
-<img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />
+_<img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />_
