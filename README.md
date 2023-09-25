@@ -1,4 +1,4 @@
-# ¡Hola! ¡Soy Camilo!
+# ¡Hola!  <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="hand" /> ¡Soy Camilo!
 
 _¡Hey coders! Full Stack Engineer con más de una década de experiencia experiencia._
 
