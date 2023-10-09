@@ -1,14 +1,14 @@
-# ¡Hola, soy Camilo! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="hand" />
+# ¡Hello, I am Camilo! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="hand" />
 
 _I am a Full-Stack Software Engineer with over a decade of experience. I specialize in Frontend and have strong skills in Backend, Cloud Services, Software Architecture, and native iOS applications. Currently, I am expanding my skills in the field of Data Science and Big Data. My values are Constant Innovation, Passion for Design, and being a friendly and empathetic Team Player._
 
-## Índice
-- [Proyectos Destacados](#proyectos-destacados)
-- [Habilidades Técnicas](#habilidades-técnicas)
-- [Contribuciones a la Comunidad](#contribuciones-a-la-comunidad)
-- [Contacto](#contacto)
+## Index
+- [Featured Projects](#featured-projects)
+- [Technical Skills](#technical-skills)
+- [Community Contributions](#community-contributions)
+- [Contact](#contact)
 
-## Proyectos Destacados
+## Featured Projects
 ### [cx-challenge](https://github.com/camiloengineer/cx-challenge)
 _🛠️ Construido con: React and Node.js_
 _This is a Full-Stack challenge that replicates the functionality of a shopping site, similar to Mercado Libre. It allows displaying user information, viewing past purchases, and accessing the details of each one._
@@ -17,7 +17,7 @@ _This is a Full-Stack challenge that replicates the functionality of a shopping 
 _🛠️ Construido con: SwiftUI, MVVM pattern_
 _This is an Instagram clone, where you can upload and view posts, like them, follow, etc._
 
-## Habilidades Técnicas
+## Technical Skills
 ### Frontend
 I am an expert in React with Redux, Angular, and other frameworks, implementing Microfrontend architectures and performing Server Side Rendering. I work with libraries like Tailwind, Bootstrap, and Material, and I use PostCSS and Sass.
 
@@ -36,9 +36,9 @@ I am committed to Data Science and Big Data, aiming to collaborate with experts 
 ### Team Player
 I am a friendly and empathetic Team Player, I easily adapt to teams diverse in culture and skills. I am drawn to projects that positively impact social development and the environment through circular economy.
 
-## Contribuciones a la Comunidad
+## Community Contributions
 - 📝 **Blog:** [Camilo Engineer](https://medium.com/@camiloengineer)
-- 👥 **Contribuciones:** [Greendstand Treetracker](https://github.com/Greenstand/treetracker-ios)
+- 👥 **Volunteer:** [Greendstand Treetracker](https://github.com/Greenstand/treetracker-ios)
 
 ## Contact
 📫 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)\
@@ -46,5 +46,5 @@ I am a friendly and empathetic Team Player, I easily adapt to teams diverse in c
 🔗 **LinkedIn:** [Camilo González](https://www.linkedin.com/in/camiloengineer/)\
 📞 **Whatsapp:** [+56998240934](https://api.whatsapp.com/send/?phone=56998240934)
 
-<sub>© 2023 Camilo Engineer.<sub>
+<sub>© 2023 Camilo Engineer. You make innovation begin 🚀<sub>
 _<img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />_
