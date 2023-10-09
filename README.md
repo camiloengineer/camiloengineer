@@ -10,12 +10,12 @@ _I am a Full-Stack Software Engineer with over a decade of experience. I special
 
 ## Proyectos Destacados
 ### [cx-challenge](https://github.com/camiloengineer/cx-challenge)
-_🛠️ Construido con: React y Node.js_
-_Es un challenge Full-Stack que replica la funcionalidad de un sitio de compras, similar a Mercado Libre. Permite mostrar información del usuario, visualizar las compras realizadas y acceder a los detalles de cada una.._
+_🛠️ Construido con: React and Node.js_
+_This is a Full-Stack challenge that replicates the functionality of a shopping site, similar to Mercado Libre. It allows displaying user information, viewing past purchases, and accessing the details of each one._
 
 ### [Instagram iOS](https://github.com/camiloengineer/Instagram-ios)
-_🛠️ Construido con: SwiftUI, patrón MVVM_
-_Es un clon de Instagram, donde se pueden subir y ver publicaciones, dar likes, seguir, etc._
+_🛠️ Construido con: SwiftUI, MVVM pattern_
+_This is an Instagram clone, where you can upload and view posts, like them, follow, etc._
 
 ## Habilidades Técnicas
 ### Frontend
