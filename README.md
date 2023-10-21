@@ -12,7 +12,7 @@ _I am a Full-Stack Software Engineer with over a decade of experience. I special
 
 ### [Portfolio-Back](https://github.com/camiloengineer/portfolio-back)
 _🛠️ Built with: GO_
-_Application in Go with Gorilla Mux and GORM using PostgreSQL. Currently implementing the Pub/Sub pattern and deploying on Google Cloud Platform._
+_This is an application in Go with Gorilla Mux and GORM using PostgreSQL. Currently implementing the Pub/Sub pattern and deploying on Google Cloud Platform._
 
 ### [cx-challenge](https://github.com/camiloengineer/cx-challenge)
 _🛠️ Built with: React and Node.js_
