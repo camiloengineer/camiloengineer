@@ -11,15 +11,18 @@ _I am a Full-Stack Software Engineer with over a decade of experience. I special
 ## Featured Projects
 
 ### [Portfolio-Back](https://github.com/camiloengineer/portfolio-back)
-_🛠️ Built with: GO_
+_🛠️ Built with: GO._
+
 _This is an application in Go with Gorilla Mux and GORM using PostgreSQL. Currently implementing the Pub/Sub pattern and deploying on Google Cloud Platform._
 
 ### [cx-challenge](https://github.com/camiloengineer/cx-challenge)
-_🛠️ Built with: React and Node.js_
+_🛠️ Built with: React and Node.js._
+
 _This is a Full-Stack challenge that replicates the functionality of a shopping site, similar to Mercado Libre. It allows displaying user information, viewing past purchases, and accessing the details of each one._
 
 ### [Instagram iOS](https://github.com/camiloengineer/Instagram-ios)
-_🛠️ Built with: SwiftUI, MVVM pattern_
+_🛠️ Built with: SwiftUI, MVVM pattern._
+
 _This is an Instagram clone, where you can upload and view posts, like them, follow, etc._
 
 ## Technical Skills
