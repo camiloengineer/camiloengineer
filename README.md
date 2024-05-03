@@ -1,6 +1,6 @@
 # ¡Hello, I am Camilo! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="hand" />
 
-_I am a Full-Stack Software Engineer with over a decade of experience. I specialize in Frontend and have strong skills in Backend, Cloud Services, Software Architecture, and native iOS applications. Currently, I am expanding my skills in the field of Data Science and Big Data. My values are Constant Innovation, Passion for Design, and being a friendly and empathetic Team Player._
+_I am a Full-Stack Software Engineer with over a decade of experience. I am committed to disruptive innovation, product vision, and a high level of accountability. Additionally, I am a friendly and empathetic team player. How can I assist with your project? Let's talk!._
 
 ## Index
 - [Featured Projects](#featured-projects)
@@ -30,7 +30,7 @@ _This is an Instagram clone, where you can upload and view posts, like them, fol
 I am an expert in React with Redux, Angular, and other frameworks, implementing Microfrontend architectures and performing Server Side Rendering. I work with libraries like Tailwind, Bootstrap, and Material, and I use PostCSS and Sass.
 
 ### Backend 
-I build APIs in Node.js and Go. I know SQL and NoSQL databases, like PostgreSQL, Oracle, Mongo, and Redis. I have experience in orchestrating Microservices, CQRS, Pub/Sub, Swagger, Graphql, and authentication with OAuth.
+I build APIs in Node.js. I know SQL and NoSQL databases, like PostgreSQL, Oracle, Mongo, and Redis. I have experience in orchestrating Microservices, CQRS, Pub/Sub, Swagger, Graphql, and authentication with OAuth.
 
 ### Cloud Services
 I work in multi-cloud and hybrid environments. I have experience in AWS, GCP, and Azure. I master IaaS, FaaS, DBaaS, PaaS, and SaaS. I perform deployments in Docker, Kubernetes, and Serverless. I build CI/CD Pipelines with stages and environments.
@@ -54,5 +54,5 @@ I am a friendly and empathetic Team Player, I easily adapt to teams diverse in c
 🔗 **LinkedIn:** [Camilo González](https://www.linkedin.com/in/camiloengineer/)\
 📞 **Whatsapp:** [+56998240934](https://api.whatsapp.com/send/?phone=56998240934)
 
-<sub>© 2023 Camilo Engineer. You make innovation begin 🚀<sub>
+<sub>© 2023 Camilo Engineer🚀<sub>
 _<img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />_
