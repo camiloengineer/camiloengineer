@@ -40,7 +40,7 @@ I am committed to Data Science and Big Data, aiming to collaborate with experts 
 I am a friendly and empathetic Team Player, I easily adapt to teams diverse in culture and skills. I am drawn to projects that positively impact social development and the environment through circular economy.
 
 ## Medium 
-📝 [Camilo Engineer](https://medium.com/@camiloengineer)
+📝 [@camiloengineer](https://medium.com/@camiloengineer)
 
 ## Contact
 📫 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)\
