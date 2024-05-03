@@ -39,9 +39,8 @@ I am committed to Data Science and Big Data, aiming to collaborate with experts 
 ### Team Player
 I am a friendly and empathetic Team Player, I easily adapt to teams diverse in culture and skills. I am drawn to projects that positively impact social development and the environment through circular economy.
 
-## Community Contributions
-- 📝 **Blog:** [Camilo Engineer](https://medium.com/@camiloengineer)
-- 👥 **Volunteer:** [Greendstand Treetracker](https://github.com/Greenstand/treetracker-ios)
+## Medium 
+📝 [Camilo Engineer](https://medium.com/@camiloengineer)
 
 ## Contact
 📫 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)\
