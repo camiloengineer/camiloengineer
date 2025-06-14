@@ -13,7 +13,7 @@
 
 ## 🚀 What I Build
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -65,6 +65,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloengineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloengineer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 📄 Resume/CV
