@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/🌐_Website-camiloengineer.com-blue?style=for-the-badge)](https://www.camiloengineer.com)
+[![Website](https://img.shields.io/badge/🌐_Website-blue?style=for-the-badge)](https://www.camiloengineer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camiloengineer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo@camiloengineer.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=56998240934)
@@ -71,8 +71,8 @@
 
 <div align="center">
 
-[![CV Light Mode](https://img.shields.io/badge/📄_CV_Light_Mode-View-blue?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)
-[![CV Dark Mode](https://img.shields.io/badge/📄_CV_Dark_Mode-View-black?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf)
+[![CV Light Mode](https://img.shields.io/badge/📄_CV_Light_Mode-blue?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)
+[![CV Dark Mode](https://img.shields.io/badge/📄_CV_Dark_Mode-black?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf)
 
 </div>
 
