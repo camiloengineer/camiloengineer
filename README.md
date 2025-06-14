@@ -69,12 +69,14 @@
 
 ## 📄 Resume/CV
 
-<div align="center">
-
-[![CV Light Mode](https://img.shields.io/badge/📄_CV_Light_Mode-blue?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)
-[![CV Dark Mode](https://img.shields.io/badge/📄_CV_Dark_Mode-black?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf)
-
-</div>
+<p align="center">
+  <a href="https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf">
+    <img src="https://img.shields.io/badge/📄_CV_Light_Mode-blue?style=for-the-badge" alt="CV Light Mode">
+  </a>
+  <a href="https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf">
+    <img src="https://img.shields.io/badge/📄_CV_Dark_Mode-black?style=for-the-badge" alt="CV Dark Mode">
+  </a>
+</p>
 
 ## 🤝 Let's Connect
 
