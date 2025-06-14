@@ -1,41 +1,59 @@
-# ¡Hello, I am Camilo! <img width="35" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="hand" />
+# Hello, I'm Camilo! <img width="30" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="👋" />
 
-_IFull-Stack Software Engineer with over 10 years of experience, specializing in customer-centric solutions. I have worked in diverse teams, fostering a positive and collaborative environment while achieving measurable results. How can I contribute to your project? Let’s talk!._
+**Full-Stack Software Engineer** with 10+ years of experience in retail, fintech, healthcare, and AI-driven mining solutions. Specialized in scalable applications and user-centric design.
 
-## Index
-- [Services](#services)
-- [Contact](#contact)
+## 🚀 What I Do
 
+### Frontend Development
+- **React 18** with Hooks, Redux, and modern patterns
+- **Angular 19** with Signals and reactive programming  
+- **Vue 3** with Pinia state management
+- Responsive design with **Tailwind CSS** and **Material UI**
+- Microfrontend architectures for enterprise applications
 
-## Services
-### Frontend
-Expert in React 18 and Angular 19 (Vite), with proficiency in reusable components, Google Analytics, responsive design, Bootstrap, Tailwind, Sass, and Less. I also have experience in Microfrontend architectures.
+### Backend Development
+- **Node.js** with NestJS and Express frameworks
+- **Python 3** for data processing and AI integrations
+- **C#/.NET Core** for enterprise solutions
+- RESTful APIs, GraphQL, and microservices architecture
+- Database design with PostgreSQL, MongoDB, and Redis
 
-### Backend 
-Skilled in building APIs using NestJS 11 and Node v21, authentication management, and documentation with Swagger. Familiar with microservice architectures and event-driven design. Developed Cloud Functions in Python 3.x for ETL processes.
+### Cloud & DevOps
+- **Google Cloud Platform** and **AWS** certified
+- Kubernetes, Docker, and serverless architectures
+- CI/CD pipelines with automated testing
+- Infrastructure as Code with Terraform
 
-### Cloud Services
-Proficient in Cloud Native environments, with solid experience in GCP, focusing on compute efficiency and security. Worked with Serverless, Kubernetes, and similar services in AWS and Azure.
+### Leadership & Collaboration
+- Agile/Scrum methodologies with proven sprint delivery
+- Cross-functional team leadership and mentoring
+- UX/UI collaboration for optimal user experiences
+- Technical architecture and code review processes
 
-### UX/UI Design
-Collaborated with UX/UI Designers to ensure exceptional user experience and technical viability. Able to quickly implement Figma designs, ensuring high consistency across the site.
+## 📊 GitHub Stats
 
-### Agile Scrum
-Applied Agile Scrum methodology to align strategic objectives with technical refinements. Focused on completing tasks one at a time until production, consistently meeting sprint commitments.
+![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloengineer&show_icons=true&theme=default)
 
-### Team Culture
-I adapt to any leadership style, building strong relationships with my superiors. I approach problems with a focus on solutions and process improvement, understanding the different perspectives of team members.
+## 🛠️ Tech Stack
 
+**Languages:** JavaScript/TypeScript, Python, C#, Go  
+**Frontend:** React, Angular, Vue.js, HTML5, CSS3  
+**Backend:** Node.js, NestJS, .NET Core, Django  
+**Cloud:** GCP, AWS, Azure  
+**Tools:** Docker, Kubernetes, Git, Jest, Figma  
 
+## 📝 Latest Articles
+Check out my technical insights on [Medium](https://medium.com/@camiloengineer)
 
-## Medium 
-📝 [@camiloengineer](https://medium.com/@camiloengineer)
+## 🤝 Let's Connect
 
-## Contact
-📫 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)\
-🌐 **Web:** [https://www.camiloengineer.com](https://www.camiloengineer.com)\
-🔗 **LinkedIn:** [Camilo González](https://www.linkedin.com/in/camiloengineer/)\
-📞 **Whatsapp:** [+56998240934](https://api.whatsapp.com/send/?phone=56998240934)
+📧 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)  
+🌐 **Website:** [camiloengineer.com](https://www.camiloengineer.com)  
+💼 **LinkedIn:** [Camilo González](https://www.linkedin.com/in/camiloengineer/)  
+💬 **WhatsApp:** [+56998240934](https://api.whatsapp.com/send/?phone=56998240934)
 
-<sub>© 2023 Camilo Engineer🚀<sub>
-_<img  src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="snake" />_
+---
+
+*"Building solutions that make a difference, one commit at a time."* 🚀
+
+<img src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/grid-snake.svg" alt="GitHub Snake Animation" />
