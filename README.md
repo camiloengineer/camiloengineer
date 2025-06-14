@@ -15,7 +15,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="width: 40rem;">
 
 ### 🎨 Frontend
 - **React 18** • Hooks, Redux
@@ -25,7 +25,7 @@
 - **Microfrontends** • Enterprise Architecture
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" style="width: 40rem;" valign="top">
 
 ### ⚙️ Backend 
 - **Node.js** • NestJS, Express.
