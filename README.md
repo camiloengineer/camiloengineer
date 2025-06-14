@@ -38,9 +38,6 @@
 **Cloud:** GCP, AWS, Azure  
 **Tools:** Docker, Kubernetes, Git, Jest, Figma  
 
-## 📝 Latest Articles
-Check out my technical insights on [Medium](https://medium.com/@camiloengineer)
-
 ## 🤝 Let's Connect
 
 📧 **Email:** [camilo@camiloengineer.com](mailto:camilo@camiloengineer.com)  
