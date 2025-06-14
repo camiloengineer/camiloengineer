@@ -13,33 +13,16 @@
 
 ## 🚀 What I Build
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" style="width: 40rem;">
-
-### 🎨 Frontend
-- **React 18** • Hooks, Redux
-- **Angular 19** • Signals, Reactive Programming
-- **Vue 3** • Pinia State Management
-- **Responsive Design** • Tailwind CSS, Material UI
-- **Microfrontends** • Enterprise Architecture
-
-</td>
-<td width="50%" style="width: 40rem;" valign="top">
-
-### ⚙️ Backend 
-- **Node.js** • NestJS, Express.
-- **Python 3** • Data Processing and multipurpose.
-- **C#/.NET Core** • Enterprise Solutions
-- **APIs** • REST, GraphQL, Microservices
-- **Databases** • PostgreSQL, MongoDB, Redis
-
-</td>
-</tr>
-</table>
+| 🎨 **Frontend** | ⚙️ **Backend** |
+|---|---|
+| **React 18** • Hooks, Redux, Modern Patterns | **Node.js** • NestJS, Express |
+| **Angular 19** • Signals & Reactive Programming | **Python 3** • Data Processing, multipurpose  |
+| **Vue 3** • Pinia State Management | **C#/.NET Core** • Enterprise Solutions |
+| **Responsive Design** • Tailwind CSS, Material UI | **APIs** • REST, GraphQL, Microservices |
+| **Microfrontends** • Enterprise Architecture | **Databases** • PostgreSQL, MongoDB, Redis |
 
 ### ☁️ Cloud & DevOps
-**GCP & AWS Certified** • Kubernetes • Docker • Serverless • CI/CD • Terraform
+**GCP & AWS Certified** • Kubernetes • Docker • Serverless • CI/CD • Terraform • Infrastructure as Code
 
 ### 👥 Leadership & Collaboration
 **Agile/Scrum** • Team Leadership • Mentoring • UX/UI Partnership • Technical Architecture
@@ -65,6 +48,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloengineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloengineer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 📄 Resume/CV
