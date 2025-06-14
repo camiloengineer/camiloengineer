@@ -1,12 +1,13 @@
 # Hey there! I'm Camilo <img width="30" src="https://github.com/camiloengineer/camiloengineer/blob/main/resources/img/waving.gif" alt="👋" />
 
-**Full-Stack Software Engineer** with 10+ years crafting scalable solutions across retail, fintech, healthcare, and AI-driven mining.
+**Full-Stack Software Engineer** with 10+ years crafting scalable solutions across retail, fintech, healthcare, and AI-driven mining. I turn complex problems into elegant, user-centric applications.
 
 <div align="center">
   
 [![Website](https://img.shields.io/badge/🌐_Website-camiloengineer.com-blue?style=for-the-badge)](https://www.camiloengineer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camiloengineer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo@camiloengineer.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=56998240934)
 
 </div>
 
@@ -14,7 +15,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎨 Frontend Excellence
 - **React 18** • Hooks, Redux, Modern Patterns
@@ -24,7 +25,7 @@
 - **Microfrontends** • Enterprise Architecture
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend Power
 - **Node.js** • NestJS, Express
@@ -70,8 +71,8 @@
 
 <div align="center">
 
-[![Download CV Light](https://img.shields.io/badge/📄_CV_Light_Mode-Download-blue?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)
-[![Download CV Dark](https://img.shields.io/badge/📄_CV_Dark_Mode-Download-black?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf)
+[![CV Light Mode](https://img.shields.io/badge/📄_CV_Light_Mode-View-blue?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)
+[![CV Dark Mode](https://img.shields.io/badge/📄_CV_Dark_Mode-View-black?style=for-the-badge)](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf)
 
 </div>
 
@@ -80,8 +81,6 @@
 <div align="center">
 
 *"Building solutions that make a difference, one commit at a time."* 🚀
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=56998240934)
 
 </div>
 
