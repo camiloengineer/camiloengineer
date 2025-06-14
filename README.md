@@ -17,9 +17,9 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Excellence
-- **React 18** • Hooks, Redux, Modern Patterns
-- **Angular 19** • Signals & Reactive Programming
+### 🎨 Frontend
+- **React 18** • Hooks, Redux
+- **Angular 19** • Signals, Reactive Programming
 - **Vue 3** • Pinia State Management
 - **Responsive Design** • Tailwind CSS, Material UI
 - **Microfrontends** • Enterprise Architecture
@@ -27,9 +27,9 @@
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Power
-- **Node.js** • NestJS, Express
-- **Python 3** • Data Processing, AI Integration
+### ⚙️ Backend 
+- **Node.js** • NestJS, Express.
+- **Python 3** • Data Processing and multipurpose.
 - **C#/.NET Core** • Enterprise Solutions
 - **APIs** • REST, GraphQL, Microservices
 - **Databases** • PostgreSQL, MongoDB, Redis
@@ -39,7 +39,7 @@
 </table>
 
 ### ☁️ Cloud & DevOps
-**GCP & AWS Certified** • Kubernetes • Docker • Serverless • CI/CD • Terraform • Infrastructure as Code
+**GCP & AWS Certified** • Kubernetes • Docker • Serverless • CI/CD • Terraform
 
 ### 👥 Leadership & Collaboration
 **Agile/Scrum** • Team Leadership • Mentoring • UX/UI Partnership • Technical Architecture
