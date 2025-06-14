@@ -13,13 +13,13 @@
 
 ## 🚀 What I Build
 
+<div align="center">
+
 | 🎨 **Frontend** | ⚙️ **Backend** |
-|---|---|
-| **React 18** • Hooks, Redux, Modern Patterns | **Node.js** • NestJS, Express |
-| **Angular 19** • Signals & Reactive Programming | **Python 3** • Data Processing, multipurpose  |
-| **Vue 3** • Pinia State Management | **C#/.NET Core** • Enterprise Solutions |
-| **Responsive Design** • Tailwind CSS, Material UI | **APIs** • REST, GraphQL, Microservices |
-| **Microfrontends** • Enterprise Architecture | **Databases** • PostgreSQL, MongoDB, Redis |
+|:---|:---|
+| **React 18** • Hooks, Redux, Modern Patterns<br>**Angular 19** • Signals & Reactive Programming<br>**Vue 3** • Pinia State Management<br>**Responsive Design** • Tailwind CSS, Material UI<br>**Microfrontends** • Enterprise Architecture | **Node.js** • NestJS, Express<br>**Python 3** • Data Processing, multipurpose<br>**C#/.NET Core** • Enterprise Solutions<br>**APIs** • REST, GraphQL, Microservices<br>**Databases** • PostgreSQL, MongoDB, Redis |
+
+</div>
 
 ### ☁️ Cloud & DevOps
 **GCP & AWS Certified** • Kubernetes • Docker • Serverless • CI/CD • Terraform • Infrastructure as Code
@@ -48,13 +48,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camiloengineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloengineer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 📄 Resume/CV
