@@ -30,10 +30,6 @@
 - UX/UI collaboration for optimal user experiences
 - Technical architecture and code review processes
 
-## 📊 GitHub Stats
-
-![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloengineer&show_icons=true&theme=default)
-
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript/TypeScript, Python, C#, Go  
