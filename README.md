@@ -52,12 +52,7 @@
 
 ## 📄 Resume/CV
 
-<p align="center">
-
-  <a href="[https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack-dark.pdf](https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf)">
-    <img src="https://img.shields.io/badge/📄_CV_Dark_Mode-black?style=for-the-badge">
-  </a>
-</p>
+https://camiloengineer.github.io/camiloengineer/cv-camilo-fullstack.pdf
 
 ## 🤝 Let's Connect
 
